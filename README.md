@@ -12,5 +12,9 @@
 
 ## Interesse em aprender:
 <div>
-  
+  <img style="width:80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img style="width:80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+
+
 </div>
